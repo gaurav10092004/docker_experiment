@@ -15,7 +15,7 @@ This repository contains a **Docker setup** for running a **MySQL container** wi
 
 ### 1⃣ Clone the Repository & Navigate to the Directory  
 ```sh
-git clone https://github.com/Uttkarshsh/Docker_Experiments/
+https://github.com/gaurav10092004/docker_experiment.git
 cd Docker_Practices
 ```
 
