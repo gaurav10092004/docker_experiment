@@ -29,7 +29,7 @@ Follow these steps to set up and run the application either locally or inside a 
 Clone the repository to your local machine by running:
 
 ```bash
-https://github.com/Uttkarshsh/Docker_Experiments
+https://github.com/gaurav10092004/docker_experiment.git
 
 cd Docker_Practices
 ```
