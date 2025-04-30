@@ -11,14 +11,7 @@ This repository contains a **Dockerized Streamlit application** for running an M
 ├── 📜 requirements.txt  # Python dependencies
 ├── 📜 Dockerfile   # Docker configuration
 └── 📜 app.py       # Main Streamlit application
-```
-
-## 🛠️ Setup & Installation
-### 🔹 Clone the Repository
-```bash
- git clone https://github.com/Uttkarshsh/Docker_Experiments
- cd Docker_Practices
-```
+,,,
 
 ### 🔹 Build & Run the Docker Container
 ```bash
