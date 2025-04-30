@@ -105,7 +105,7 @@ target "python-bakery" {
 Once the images are pushed, visit your Docker Hub repository at:
 
 ```
-https://hub.docker.com/repository/docker/aditya5757/python-bakery/general
+
 ```
 
 You should see the multi-architecture image available under **Tags**.
